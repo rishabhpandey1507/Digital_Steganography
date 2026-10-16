@@ -226,6 +226,4 @@ Add your own screenshots to `docs/images/` and uncomment the lines below:
 
 Pull requests are welcome. Fork the repo, create a feature branch, and open a PR.
 
-## 📄 License
 
-Add a license of your choice (for example [MIT](https://choosealicense.com/licenses/mit/)).
